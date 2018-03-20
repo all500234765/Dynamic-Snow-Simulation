@@ -8,5 +8,3 @@ ver 1.0
    just change 20 value in Sample function to something not that big.
  - Rendered world should be in RenderWorld function 
    also don't forget to test _WUT shader uniform for your models!
-
-![meow](https://imgur.com/a/dRMXe)
